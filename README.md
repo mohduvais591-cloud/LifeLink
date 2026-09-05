@@ -17,30 +17,22 @@
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-
-![LifeLink Home Page](screenshots/home.png)
+<img width="1892" height="916" alt="Screenshot 2026-09-05 091154" src="https://github.com/user-attachments/assets/21e1417f-76f2-4136-885c-0f7f1501a5c6" />
 
 ### 🩸 Blood Request
-
-![Blood Request](screenshots/blood-request.png)
+<img width="1730" height="913" alt="Screenshot 2026-09-05 091526" src="https://github.com/user-attachments/assets/2967367a-eb2c-44b8-bbf5-c04502f8d3c9" />
 
 ### 👤 Donor Dashboard
-
-![Donor Dashboard](screenshots/donor-dashboard.png)
+<img width="1902" height="713" alt="Screenshot 2026-09-05 091628" src="https://github.com/user-attachments/assets/e60df40b-da86-49dd-bd93-0cd8764888f2" />
 
 ### 🏥 Hospital Dashboard
-
-![Hospital Dashboard](screenshots/hospital-dashboard.png)
+<img width="1896" height="853" alt="Screenshot 2026-09-05 091731" src="https://github.com/user-attachments/assets/6e5c1562-fe24-46c3-a652-a1dce479fdb7" />
 
 ### 🚨 Emergency Request
-
-![Emergency Request](screenshots/emergency.png)
+<img width="1897" height="915" alt="Screenshot 2026-09-05 091926" src="https://github.com/user-attachments/assets/4f16ca65-c073-40ce-a797-9fabbaf8d512" />
 
 ### 🚁 Drone Transportation
-
-![Drone Transportation](screenshots/drone-transport.png)
-
-> Add your actual screenshots inside a `screenshots` folder in the repository.
+<img width="1912" height="878" alt="Screenshot 2026-09-05 092028" src="https://github.com/user-attachments/assets/17bc6001-a1c7-49d3-9fb0-cade6cdd5834" />
 
 ---
 
